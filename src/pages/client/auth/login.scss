@@ -1,0 +1,17 @@
+.register-page {
+    .main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .container {
+            padding: 30px;
+            margin-top: 50px;
+            height: 400px;
+            width: 350px;
+            background-color: rgb(229, 237, 237);
+            box-shadow: color-mix(in hsl shorter hue, color percentage, color percentage);
+            border-radius: 10px;
+        }
+    }
+}
